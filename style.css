@@ -13,7 +13,7 @@
     flex-direction: row;
     font-size: small;
 }
-@media all (max-width:1080px){
+@media screen (max-width:1080px){
     .navbar{
         height: 200px;
     }
