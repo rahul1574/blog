@@ -1,0 +1,218 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Times New Roman', Times, serifs;
+}
+.navbar{
+    height: 30px;
+    width: auto;
+    background-color: rgb(24, 106, 138);
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    flex-direction: row;
+    font-size: small;
+}
+@media all (max-width:1080px){
+    .navbar{
+        height: 200px;
+    }
+    #text1{
+        position: relative;
+        left:100px;
+        top:-60px;
+    }
+    #text2{
+        position: relative;
+        left:200px;
+        top:-60px;
+    }
+    #text3{
+        position: relative;
+        left:300px;
+        top:-60px;
+    }
+    #text4{
+        position: relative;
+        left:400px;
+        top:-60px;
+    }
+    #text5{
+        position: relative;
+        left:500px;
+        top:-60px;
+    }
+    #text6{
+        position: relative;
+        left:600px;
+        top:-60px;
+    }
+    #text7{
+        position: relative;
+        left:-150px;
+        top:0px;
+    }
+    #text8{
+        position: relative;
+        left:-50px;
+        top:0px;
+    }
+    #text9{
+        position: relative;
+        left:70px;
+        top:0px;
+    }
+    #text10{
+        position: relative;
+        left:170px;
+        top:0px;
+    }
+    #text11{
+        position: relative;
+        left:260px;
+        top:0px;
+    }
+    #text12{
+        position: relative;
+        left:-200px;
+        top:50px;
+    }
+    #text13{
+        position: relative;
+        left:-120px;
+        top:50px;
+    }
+    #text14{
+        position: relative;
+        left:-50px;
+        top:50px;
+    }
+}
+#text1{
+    color: white;
+}
+#text2{
+    color: white;
+}
+#text3{
+    color: white;
+}
+#text4{
+    color: white;
+}
+#text5{
+    color: white;
+}
+#text6{
+    color: white;
+}
+#text7{
+    color: white;
+}
+#text8{
+    color: white;
+}
+#text9{
+    color: white;
+}
+#text8{
+    color: white;
+}
+#text9{
+    color: white;
+}
+#text10{
+    color: white;
+}
+#text11{
+    color: white;
+}
+#text12{
+    color:blue;
+    background-color: white;
+    font-weight:bold;
+}
+#text13{
+    color: red;
+    background-color: white;
+    font-weight:bold;
+}
+#text14{
+    color: blue;
+    background-color: white;
+    font-weight:bold;
+}
+.text15{
+   width: 400px;
+}
+#logo1{
+    height: 100px;
+    width: auto;
+    position: relative;
+    left:100px;
+}
+.logos{
+    display: flex;
+    flex-direction: row;
+}
+.logos2{
+    height: 90px;
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    left:270px;
+}
+.navbar1{
+    height: 35px;
+    background-color: rgb(105, 14, 190);
+    background-size: cover;
+    position:relative;
+    top:10px;
+    display: flex;
+    justify-content: center;
+}
+.text16{
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+select{
+    background-color:rgb(105, 14, 190);
+    border: 0 solid rgb(105, 14, 190);
+    color: white;
+}
+.navbar11{
+    display: flex;
+    flex-direction: row;
+}
+.navbar12{
+    display: flex;
+    justify-content: space-evenly;
+}
+#one{
+    width: 100px;
+}
+#two{
+    width: 100px;
+}
+#three{
+    width: 110px;
+}
+#four{
+    width: 100px;
+}
+#five{
+    width: 100px;
+}
+#six{
+    width: 100px;
+}
+#seven{
+    width: 100px;
+}
+#eight{
+    width: 100px;
+}
+
+
